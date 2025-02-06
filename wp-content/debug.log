@@ -567,3 +567,4 @@ Stack trace:
 #5 /workspaces/Week4-Assignment-1/.wordpress/wp-admin/post.php(206): require('/workspaces/Wee...')
 #6 {main}
   thrown in /workspaces/Week4-Assignment-1/.wordpress/wp-content/plugins/enhanced-category-pages/classes/ecp/Enhanced_Category.php on line 101
+[06-Feb-2025 00:43:18 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab-4-UX221/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
